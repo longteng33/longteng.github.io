@@ -94,7 +94,7 @@ vertical-align: middle;
     transform-origin: center;
 }
 .nav-con .sub-nav{
-/* display: none; */
+display: none;
 }
 .nav-con .sub-item{
     position: relative;
