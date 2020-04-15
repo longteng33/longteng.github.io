@@ -134,6 +134,7 @@ display: none;
     width: 390px;
     height: calc(100% - 20px);
     background: cadetblue;
+    overflow-y: auto;
 }
 .fixed{
     position: fixed;
