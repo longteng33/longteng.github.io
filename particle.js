@@ -93,11 +93,11 @@ function init(num) {
 }
 
 window.onload = init(100)
-window.onmousemove = function (e) {
-    e = e || window.event;
-    current_circle.x = e.clientX;
-    current_circle.y = e.clientY;
-}
+// window.onmousemove = function (e) {
+//     e = e || window.event;
+//     current_circle.x = e.clientX;
+//     current_circle.y = e.clientY;
+// }
 
 window.onmouseout = function (e) {
     e = e || window.event;
